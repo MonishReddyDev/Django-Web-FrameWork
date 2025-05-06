@@ -4,6 +4,7 @@ import os
 import sys
 
 
+#Pythin index file
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DjangoPractice.settings')
